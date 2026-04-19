@@ -1,0 +1,15 @@
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/bin/Debug/net10.0/SupportHub.Application.deps.json
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/bin/Debug/net10.0/SupportHub.Application.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/bin/Debug/net10.0/SupportHub.Application.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/bin/Debug/net10.0/SupportHub.Domain.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/bin/Debug/net10.0/SupportHub.Domain.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.csproj.AssemblyReference.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.AssemblyInfoInputs.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.AssemblyInfo.cs
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.csproj.CoreCompileInputs.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportH.892620CD.Up2Date
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/refint/SupportHub.Application.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/ref/SupportHub.Application.dll

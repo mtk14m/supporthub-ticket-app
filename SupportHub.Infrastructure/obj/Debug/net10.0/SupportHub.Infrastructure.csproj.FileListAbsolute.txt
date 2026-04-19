@@ -1,0 +1,17 @@
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Infrastructure.deps.json
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Infrastructure.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Infrastructure.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Application.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Domain.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Application.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Domain.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.csproj.AssemblyReference.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.AssemblyInfoInputs.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.AssemblyInfo.cs
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.csproj.CoreCompileInputs.cache
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportH.6F2BF0E4.Up2Date
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/refint/SupportHub.Infrastructure.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.pdb
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/ref/SupportHub.Infrastructure.dll
