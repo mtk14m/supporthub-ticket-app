@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SupportHub.Application\SupportHub.Application.csproj" />
     <ProjectReference Include="..\SupportHub.Infrastructure\SupportHub.Infrastructure.csproj" />
+    <ProjectReference Include="..\SupportHub.Application\SupportHub.Application.csproj" />
   </ItemGroup>
 
 </Project>

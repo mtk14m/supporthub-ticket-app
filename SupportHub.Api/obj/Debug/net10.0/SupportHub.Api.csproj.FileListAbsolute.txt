@@ -37,3 +37,4 @@
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Api/obj/Debug/net10.0/SupportHub.Api.pdb
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Api/obj/Debug/net10.0/SupportHub.Api.genruntimeconfig.cache
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Api/obj/Debug/net10.0/ref/SupportHub.Api.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Api/obj/Debug/net10.0/SupportHub.Api.sourcelink.json
