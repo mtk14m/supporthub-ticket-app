@@ -13,3 +13,4 @@
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/refint/SupportHub.Application.dll
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.pdb
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/ref/SupportHub.Application.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Application/obj/Debug/net10.0/SupportHub.Application.sourcelink.json
