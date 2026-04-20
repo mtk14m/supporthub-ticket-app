@@ -9,3 +9,4 @@
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Domain/obj/Debug/net10.0/refint/SupportHub.Domain.dll
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Domain/obj/Debug/net10.0/SupportHub.Domain.pdb
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Domain/obj/Debug/net10.0/ref/SupportHub.Domain.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Domain/obj/Debug/net10.0/SupportHub.Domain.sourcelink.json
