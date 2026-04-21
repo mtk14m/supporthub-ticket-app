@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lQdh5Q+z8EY=",
+  "dgSpecHash": "7dbmyDAJprI=",
   "success": true,
   "projectFilePath": "/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Tests/SupportHub.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/mtk14n/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
-    "/Users/mtk14n/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
     "/Users/mtk14n/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",
     "/Users/mtk14n/.nuget/packages/microsoft.net.test.sdk/17.14.1/microsoft.net.test.sdk.17.14.1.nupkg.sha512",
-    "/Users/mtk14n/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
     "/Users/mtk14n/.nuget/packages/microsoft.testplatform.objectmodel/17.14.1/microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
     "/Users/mtk14n/.nuget/packages/microsoft.testplatform.testhost/17.14.1/microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
     "/Users/mtk14n/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",

@@ -19,8 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SupportHub.Api\SupportHub.Api.csproj" />
-    <ProjectReference Include="..\SupportHub.Application\SupportHub.Application.csproj" />
     <ProjectReference Include="..\SupportHub.Domain\SupportHub.Domain.csproj" />
   </ItemGroup>
 
