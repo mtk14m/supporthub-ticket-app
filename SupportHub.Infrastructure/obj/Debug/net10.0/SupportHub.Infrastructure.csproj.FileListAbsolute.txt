@@ -15,3 +15,6 @@
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/refint/SupportHub.Infrastructure.dll
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.pdb
 /Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/ref/SupportHub.Infrastructure.dll
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.sourcelink.json
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/bin/Debug/net10.0/SupportHub.Infrastructure.runtimeconfig.json
+/Volumes/PARTMAC/dev/dotnet/learndotnet/SupportHub/SupportHub.Infrastructure/obj/Debug/net10.0/SupportHub.Infrastructure.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 using System.Data.Common;
+using SupportHub.Domain.Tickets;
 
 namespace SupportHub.Application.Tickets;
 
@@ -28,6 +29,16 @@ public class CreateTicketUseCase : ICreateTicketUseCase
         var ticketId = Guid.NewGuid();
         var reference = $"TKT-{DateTime.UtcNow.Ticks}";
 
+       var ticket = new Ticket(
+            ticketId,
+            reference,
+            request.Title,
+            request.Description,
+            (TicketPriority)request.Priority,
+            request.CustomerId,
+            DateTimeOffset.UtcNow
+        );
+
         return await Task.FromResult(new CreateTicketResponse
         {
             Id = ticketId,
@@ -35,3 +46,4 @@ public class CreateTicketUseCase : ICreateTicketUseCase
         });
     }
 }
+
